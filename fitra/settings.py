@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'django_filters',
     'users',
     'exercises',
+    'workouts',
 ]
 
 MIDDLEWARE = [
